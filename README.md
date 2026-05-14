@@ -78,7 +78,7 @@ https://team-task-managerr-chi.vercel.app
 
 GitHub Repository
 
-https://github.com/Keerthikareddyy/team-task-manager
+https://github.com/Keerthikareddyy/team-task-managerr
 
 Author
 
